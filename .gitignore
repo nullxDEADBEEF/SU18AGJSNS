@@ -1,0 +1,17 @@
+#Ignore Jetbrains rider files
+SpaceTaxiSolution/.idea/
+ 
+#Ignore weird mac files
+SpaceTaxiSolution/.DS_STORE
+ 
+#Ignore rider build files
+SpaceTaxiSolution/*/obj/
+SpaceTaxiSolution/*/bin/
+ 
+#Ignore OpenTK package
+SpaceTaxiSolution/packages/
+SpaceTaxiSolution/*/packages/OpenTK2.0.0/
+SpaceTaxiSolution/*/packages/OpenTK.2.0.0/
+
+#Ignore some weird rider solution file
+SpaceTaxiSolution/SpaceTaxiSolution.sln.DotSettings.user
