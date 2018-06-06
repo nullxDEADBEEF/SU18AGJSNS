@@ -1,17 +1,17 @@
 #Ignore Jetbrains rider files
-SpaceTaxiSolution/.idea/
+Exam-2018/.idea/
  
 #Ignore weird mac files
-SpaceTaxiSolution/.DS_STORE
+Exam-2018/.DS_STORE
  
 #Ignore rider build files
-SpaceTaxiSolution/*/obj/
-SpaceTaxiSolution/*/bin/
+Exam-2018/*/obj/
+Exam-2018/*/bin/
  
 #Ignore OpenTK package
-SpaceTaxiSolution/packages/
-SpaceTaxiSolution/*/packages/OpenTK2.0.0/
-SpaceTaxiSolution/*/packages/OpenTK.2.0.0/
+Exam-2018/packages/
+Exam-2018/*/packages/OpenTK2.0.0/
+Exam-2018/*/packages/OpenTK.2.0.0/
 
 #Ignore some weird rider solution file
-SpaceTaxiSolution/SpaceTaxiSolution.sln.DotSettings.user
+Exam-2018/Exam-2018.sln.DotSettings.user
